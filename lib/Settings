@@ -1,0 +1,5 @@
+Grandle Scripts -> Version festlegen
+Manifest AndroidManifest.xml -> Name festlegen / Permissions / etc.
+values color -> Farben festlegen
+values style -> Main Style festlegen
+values strings -> globale strings festlegen
